@@ -1,13 +1,5 @@
-Etudiant 1: 
-	Nom: PARCHEMINER
-	Prénom: Nolann
-	N° étudiant: 22101157
-
-Etudiant 2:
-	Nom: LE BRIS
-	Prénom: Ilan
-	N° étudiant: 22105104
-
+Projet _fil rouge_ réalisé dans le cadre de l'UE _Programmation Orientée Objet_
+Projet réalisé en binôme avec LE BRIS Ilan
 
 Structure des packages:
 	games
